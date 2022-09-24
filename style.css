@@ -1,0 +1,57 @@
+img{
+    max-width: 100%;
+}
+.header-logo img {
+    width: 85px;
+}
+.hero-caption {
+    margin-top: 178px;
+}
+.buton{
+    background-color: #8490ff;
+}
+
+.blule-section{
+    background-color:#8490ff;
+}
+
+
+
+/* service-section */
+.service-section{
+    background-color: #f9f9ff;
+}
+.service-logo{
+    width: 100px;
+    height: 100px;
+    background-color: #8490ff18;
+    border-radius: 50%;
+    margin: auto;
+}
+.service-logo h1{
+    line-height: 100px;   
+}
+.s-title h3{
+    margin-bottom: 30px;
+}
+.service-items{
+    box-sizing: border-box;
+}
+
+/* .testmoniyal */
+
+.testmoniyal-img{
+    /* overflow: hidden; */
+    position: relative;
+    margin-top: 100px;
+}
+.testmoniyal-img img {
+    position: absolute;
+    left: 21px;
+    top: -76px;
+    width: 34%;
+}
+
+
+
+ 

@@ -1,0 +1,82 @@
+@media (min-width:992px) and (max-width:1199px) {
+    .navbar-expand-lg .navbar-collapse {
+        position: absolute;
+        left: 29%;
+        top: -49px;
+      
+     
+    }
+}
+
+@media (min-width:600px) and (max-width:991Px){
+    button.navbar-toggler {
+        position: absolute;
+        left: 87%;
+        top: -41px;
+        padding-right: 10px;
+    }
+    ul.navbar-nav.ms-auto.fs-5 {
+        width: 32%;
+        background: beige;
+        padding-left: 33px;
+        margin-top: 33px;
+    }
+}
+
+@media (min-width:300px) and (max-width:599px){
+    button.navbar-toggler.collapsed {
+        position: absolute;
+        right: 19px;
+        top: -47px;
+    }
+    button.navbar-toggler {
+        position: absolute;
+        right: 24px;
+        top: -45px;
+    }
+    div#navbarNavDropdown {
+        border-radius: 22px;
+        padding-right: 33px;
+        margin-left: 137px;
+    }
+    a.nav-link {
+        padding: 1px 0px;
+    }
+}
+
+
+
+@media (max-width:991px) {
+    .hero-caption {
+        margin-top: 16px;
+    }
+
+    /* service-section */
+    .s-title h3 {
+        margin-bottom: 6px;
+    }
+       
+
+}
+
+@media (max-width:767px) {
+     .hero-caption{
+        padding-bottom: 50px;
+     }
+    .hero-caption button.mt-5 {
+        margin-top: 1rem!important;
+    }
+
+    .testmoniyal-items {
+        margin-bottom: 33px;
+    }
+    .hero-img {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width:575px){
+    input.form-control {
+        margin-bottom: 17px;
+    }
+}
